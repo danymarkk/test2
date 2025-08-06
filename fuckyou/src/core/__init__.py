@@ -1,3 +1,0 @@
-"""
-Core trading system components
-"""
