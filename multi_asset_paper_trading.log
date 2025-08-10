@@ -1,0 +1,181 @@
+2025-08-01 23:59:46,286 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-01 23:59:46,287 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-01 23:59:46,287 - INFO -    Initial Balance: $1,000.00
+2025-08-01 23:59:46,287 - INFO -    Risk per Trade: 10.0%
+2025-08-01 23:59:46,287 - INFO -    ATR Multiplier: 0.75
+2025-08-01 23:59:46,287 - INFO -    R/R Ratio: 2.0:1
+2025-08-01 23:59:46,287 - INFO - Starting multi-asset live paper trading...
+2025-08-01 23:59:46,287 - INFO -    Check interval: 5 minutes
+2025-08-01 23:59:46,287 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-01 23:59:46,287 - INFO - Starting monitoring for BTC/USDT
+2025-08-01 23:59:46,288 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-01 23:59:46,288 - INFO - Starting monitoring for ETH/USDT
+2025-08-01 23:59:46,288 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-01 23:59:46,289 - INFO - Starting monitoring for XRP/USDT
+2025-08-01 23:59:46,289 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 00:01:35,183 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 00:01:35,183 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 00:01:35,183 - INFO -    Initial Balance: $1,000.00
+2025-08-02 00:01:35,183 - INFO -    Risk per Trade: 10.0%
+2025-08-02 00:01:35,183 - INFO -    ATR Multiplier: 0.75
+2025-08-02 00:01:35,183 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 00:01:35,183 - INFO - Starting multi-asset live paper trading...
+2025-08-02 00:01:35,183 - INFO -    Check interval: 5 minutes
+2025-08-02 00:01:35,183 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 00:01:35,184 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 00:01:35,184 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 00:01:35,185 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 00:01:35,185 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 00:01:35,185 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 00:01:35,185 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 00:06:16,440 - INFO - Multi-asset paper trading stopped by user
+2025-08-02 00:06:16,440 - INFO - No completed trades yet
+2025-08-02 00:06:30,896 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 00:06:30,896 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 00:06:30,896 - INFO -    Initial Balance: $1,000.00
+2025-08-02 00:06:30,896 - INFO -    Risk per Trade: 10.0%
+2025-08-02 00:06:30,896 - INFO -    ATR Multiplier: 0.75
+2025-08-02 00:06:30,896 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 00:06:30,896 - INFO - Starting multi-asset live paper trading...
+2025-08-02 00:06:30,896 - INFO -    Check interval: 5 minutes
+2025-08-02 00:06:30,897 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 00:06:30,897 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 00:06:30,897 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 00:06:30,898 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 00:06:30,898 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 00:06:30,898 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 00:06:30,899 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 12:39:49,061 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 12:39:49,061 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 12:39:49,062 - INFO -    Initial Balance: $1,000.00
+2025-08-02 12:39:49,062 - INFO -    Risk per Trade: 10.0%
+2025-08-02 12:39:49,062 - INFO -    ATR Multiplier: 0.75
+2025-08-02 12:39:49,062 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 12:39:49,062 - INFO - Starting multi-asset live paper trading...
+2025-08-02 12:39:49,062 - INFO -    Check interval: 30 minutes
+2025-08-02 12:39:49,062 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 12:39:49,062 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 12:39:49,062 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 12:39:49,063 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 12:39:49,063 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 12:39:49,064 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 12:39:49,064 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 12:41:24,061 - INFO - Multi-asset paper trading stopped by user
+2025-08-02 12:41:24,061 - INFO - No completed trades yet
+2025-08-02 12:44:53,922 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 12:44:53,922 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 12:44:53,923 - INFO -    Initial Balance: $1,000.00
+2025-08-02 12:44:53,923 - INFO -    Risk per Trade: 10.0%
+2025-08-02 12:44:53,923 - INFO -    ATR Multiplier: 0.75
+2025-08-02 12:44:53,923 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 12:44:53,923 - INFO - Starting multi-asset live paper trading...
+2025-08-02 12:44:53,924 - INFO -    Check interval: 30 minutes
+2025-08-02 12:44:53,924 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 12:44:53,924 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 12:44:53,924 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 12:44:53,925 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 12:44:53,925 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 12:44:53,925 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 12:44:53,926 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 12:45:15,829 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 12:45:15,829 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 12:45:15,830 - INFO -    Initial Balance: $1,000.00
+2025-08-02 12:45:15,830 - INFO -    Risk per Trade: 10.0%
+2025-08-02 12:45:15,830 - INFO -    ATR Multiplier: 0.75
+2025-08-02 12:45:15,830 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 12:45:15,830 - INFO - Starting multi-asset live paper trading...
+2025-08-02 12:45:15,830 - INFO -    Check interval: 30 minutes
+2025-08-02 12:45:15,830 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 12:45:15,831 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 12:45:15,831 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 12:45:15,832 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 12:45:15,832 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 12:45:15,832 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 12:45:15,832 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 13:03:37,541 - INFO - Multi-asset paper trading stopped by user
+2025-08-02 13:03:37,541 - INFO - No completed trades yet
+2025-08-02 13:05:42,348 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 13:05:42,348 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 13:05:42,348 - INFO -    Initial Balance: $1,000.00
+2025-08-02 13:05:42,349 - INFO -    Risk per Trade: 10.0%
+2025-08-02 13:05:42,349 - INFO -    ATR Multiplier: 0.75
+2025-08-02 13:05:42,349 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 13:05:42,349 - INFO - Starting multi-asset live paper trading...
+2025-08-02 13:05:42,349 - INFO -    Check interval: 30 minutes
+2025-08-02 13:05:42,349 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 13:05:42,349 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 13:05:42,349 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 13:05:42,350 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 13:05:42,350 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 13:05:42,351 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 13:05:42,351 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 17:41:28,593 - INFO - Multi-asset paper trading stopped by user
+2025-08-02 17:41:28,593 - INFO - No completed trades yet
+2025-08-02 17:50:00,188 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 17:50:00,188 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 17:50:00,189 - INFO -    Initial Balance: $1,000.00
+2025-08-02 17:50:00,189 - INFO -    Risk per Trade: 10.0%
+2025-08-02 17:50:00,189 - INFO -    ATR Multiplier: 0.75
+2025-08-02 17:50:00,189 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 17:50:00,189 - INFO - Starting multi-asset live paper trading...
+2025-08-02 17:50:00,189 - INFO -    Check interval: 30 minutes
+2025-08-02 17:50:00,189 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 17:50:00,189 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 17:50:00,189 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 17:50:00,190 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 17:50:00,190 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 17:50:00,191 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 17:50:00,191 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 17:50:03,849 - INFO - BTC/USDT: Generated 35 long, 18 short signals
+2025-08-02 17:50:03,850 - INFO - ETH/USDT: Generated 52 long, 3 short signals
+2025-08-02 17:50:04,071 - INFO - XRP/USDT: Generated 5 long, 47 short signals
+2025-08-02 18:31:22,325 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 18:31:22,326 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 18:31:22,326 - INFO -    Initial Balance: $1,000.00
+2025-08-02 18:31:22,326 - INFO -    Risk per Trade: 10.0%
+2025-08-02 18:31:22,326 - INFO -    ATR Multiplier: 0.75
+2025-08-02 18:31:22,326 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 18:31:22,326 - INFO - Starting multi-asset live paper trading...
+2025-08-02 18:31:22,326 - INFO -    Check interval: 30 minutes
+2025-08-02 18:31:22,326 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 18:31:22,326 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 18:31:22,327 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 18:31:22,327 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 18:31:22,327 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 18:31:22,328 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 18:31:22,328 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 18:31:27,376 - INFO - XRP/USDT: Generated 5 long, 47 short signals
+2025-08-02 18:31:27,415 - INFO - BTC/USDT: Generated 34 long, 18 short signals
+2025-08-02 18:31:27,416 - INFO - ETH/USDT: Generated 52 long, 3 short signals
+2025-08-02 18:34:18,129 - INFO - Multi-asset paper trading stopped by user
+2025-08-02 18:34:18,129 - INFO - No completed trades yet
+2025-08-02 18:43:53,179 - INFO - Multi-Asset Paper Trader initialized:
+2025-08-02 18:43:53,179 - INFO -    Symbols: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 18:43:53,179 - INFO -    Initial Balance: $1,000.00
+2025-08-02 18:43:53,179 - INFO -    Risk per Trade: 10.0%
+2025-08-02 18:43:53,179 - INFO -    ATR Multiplier: 0.75
+2025-08-02 18:43:53,179 - INFO -    R/R Ratio: 2.0:1
+2025-08-02 18:43:53,179 - INFO - Starting multi-asset live paper trading...
+2025-08-02 18:43:53,179 - INFO -    Check interval: 30 minutes
+2025-08-02 18:43:53,179 - INFO -    Monitoring: BTC/USDT, ETH/USDT, XRP/USDT
+2025-08-02 18:43:53,180 - INFO - Starting monitoring for BTC/USDT
+2025-08-02 18:43:53,180 - INFO -    Started monitoring thread for BTC/USDT
+2025-08-02 18:43:53,181 - INFO - Starting monitoring for ETH/USDT
+2025-08-02 18:43:53,181 - INFO -    Started monitoring thread for ETH/USDT
+2025-08-02 18:43:53,181 - INFO - Starting monitoring for XRP/USDT
+2025-08-02 18:43:53,181 - INFO -    Started monitoring thread for XRP/USDT
+2025-08-02 18:43:56,462 - INFO - BTC/USDT: Generated 34 long, 18 short signals
+2025-08-02 18:43:57,002 - INFO - ETH/USDT: Generated 52 long, 3 short signals
+2025-08-02 18:43:57,013 - INFO - XRP/USDT: Generated 5 long, 47 short signals
+2025-08-02 19:13:57,145 - INFO - BTC/USDT: Generated 34 long, 18 short signals
+2025-08-02 19:13:57,910 - INFO - ETH/USDT: Generated 52 long, 3 short signals
+2025-08-02 19:13:57,922 - INFO - XRP/USDT: Generated 5 long, 47 short signals
+2025-08-02 19:43:57,806 - INFO - BTC/USDT: Generated 34 long, 18 short signals
+2025-08-02 19:43:58,705 - INFO - ETH/USDT: Generated 52 long, 3 short signals
+2025-08-02 19:43:58,717 - INFO - XRP/USDT: Generated 5 long, 47 short signals
+2025-08-02 20:13:58,524 - INFO - BTC/USDT: Generated 33 long, 18 short signals
+2025-08-02 20:13:59,493 - INFO - ETH/USDT: Generated 51 long, 3 short signals
+2025-08-02 20:13:59,505 - INFO - XRP/USDT: Generated 4 long, 47 short signals
+2025-08-02 20:43:59,207 - INFO - BTC/USDT: Generated 32 long, 18 short signals
+2025-08-02 20:44:00,275 - INFO - ETH/USDT: Generated 50 long, 3 short signals
+2025-08-02 20:44:00,286 - INFO - XRP/USDT: Generated 3 long, 47 short signals
